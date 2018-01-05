@@ -1,5 +1,5 @@
 // import recurse from './recurse'
 // import tail from './tail'
-import iter from './iter'
+import lowdb from 'lowdb'
 
-export default iter
+export default lowdb

@@ -22,7 +22,9 @@
     "url": "https://github.com/jskit/kit-db/issues"
   },
   "homepage": "https://github.com/jskit/kit-db#readme",
-  "dependencies": {},
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.3",
