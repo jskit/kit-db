@@ -1,6 +1,6 @@
 {
   "name": "kit-db",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "小型数据库",
   "main": "lib/index.js",
   "scripts": {
